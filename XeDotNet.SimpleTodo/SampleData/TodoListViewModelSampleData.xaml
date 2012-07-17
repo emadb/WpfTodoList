@@ -1,0 +1,14 @@
+<XeDotNet_SimpleTodo_ViewModels:TodoListViewModel xmlns:XeDotNet_SimpleTodo_ViewModels="clr-namespace:XeDotNet.SimpleTodo.ViewModels" xmlns:XeDotNet_SimpleTodo_Models="clr-namespace:XeDotNet.SimpleTodo.Models">
+	<XeDotNet_SimpleTodo_ViewModels:TodoListViewModel.Items>
+		<XeDotNet_SimpleTodo_Models:Todo DueDate="05/04/2011 23:02:34" Description="Class aenean mauris" Id="63"/>
+		<XeDotNet_SimpleTodo_Models:Todo DueDate="05/04/2011 23:02:34" Description="Nam maecenas vestibulum" Id="13"/>
+		<XeDotNet_SimpleTodo_Models:Todo DueDate="05/04/2011 23:02:34" Description="Aliquam curae sed" Id="16"/>
+		<XeDotNet_SimpleTodo_Models:Todo DueDate="05/04/2011 23:02:34" Description="Adipiscing integer" Id="26"/>
+		<XeDotNet_SimpleTodo_Models:Todo DueDate="05/04/2011 23:02:34" Description="Praesent accumsan quisque parturient" Id="32"/>
+		<XeDotNet_SimpleTodo_Models:Todo DueDate="05/04/2011 23:02:34" Description="Curabitur donec bibendum phasellus cras" Id="97"/>
+		<XeDotNet_SimpleTodo_Models:Todo DueDate="05/04/2011 23:02:34" Description="Vestibulum vivamus etiam fusce" Id="34"/>
+		<XeDotNet_SimpleTodo_Models:Todo DueDate="05/04/2011 23:02:34" Description="Vestibulum aliquam dis" Id="34"/>
+		<XeDotNet_SimpleTodo_Models:Todo DueDate="05/04/2011 23:02:34" Description="Lorem duis" Id="19"/>
+		<XeDotNet_SimpleTodo_Models:Todo DueDate="05/04/2011 23:02:34" Description="Adipiscing parturient nunc aliquet dictumst" Id="26"/>
+	</XeDotNet_SimpleTodo_ViewModels:TodoListViewModel.Items>
+</XeDotNet_SimpleTodo_ViewModels:TodoListViewModel>

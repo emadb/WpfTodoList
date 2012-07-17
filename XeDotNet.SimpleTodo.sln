@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeDotNet.SimpleTodo", "XeDotNet.SimpleTodo\XeDotNet.SimpleTodo.csproj", "{A93FE518-FE3A-48D2-AE98-78DCF963CC7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeDotNet.SimpleTodo.Fixtures", "XeDotNet.SimpleTodo.Fixtures\XeDotNet.SimpleTodo.Fixtures.csproj", "{9DDB67A9-89F9-430F-8F4C-07AE1402F87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A93FE518-FE3A-48D2-AE98-78DCF963CC7A}.Debug|x86.ActiveCfg = Debug|x86
+		{A93FE518-FE3A-48D2-AE98-78DCF963CC7A}.Debug|x86.Build.0 = Debug|x86
+		{A93FE518-FE3A-48D2-AE98-78DCF963CC7A}.Release|x86.ActiveCfg = Release|x86
+		{A93FE518-FE3A-48D2-AE98-78DCF963CC7A}.Release|x86.Build.0 = Release|x86
+		{9DDB67A9-89F9-430F-8F4C-07AE1402F87D}.Debug|x86.ActiveCfg = Debug|x86
+		{9DDB67A9-89F9-430F-8F4C-07AE1402F87D}.Debug|x86.Build.0 = Debug|x86
+		{9DDB67A9-89F9-430F-8F4C-07AE1402F87D}.Release|x86.ActiveCfg = Release|x86
+		{9DDB67A9-89F9-430F-8F4C-07AE1402F87D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
